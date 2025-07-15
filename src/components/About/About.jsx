@@ -59,10 +59,7 @@ const About = () => {
           {/* Skills Heading with Typing Effect */}
           <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mb-4 text-[#8245ec] leading-tight h-12">
             <span className="text-white">I am a </span>
-            <span className="relative">
-              {currentRole}
-              <span className={`absolute bottom-0 left-0 h-1 w-full bg-[#8245ec] ${!isTyping ? 'opacity-0' : 'opacity-100'}`}></span>
-            </span>
+            <span>{currentRole}</span>
           </h3>
           <br/>
           {/* About Me Paragraph */}
