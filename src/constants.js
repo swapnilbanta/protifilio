@@ -75,18 +75,56 @@ export const SkillsInfo = [
       company: "Bebo Technologies",
       date: "January 2022 -  May 2025",
       desc: "Skilled frontend developer with 3+ years of experience building responsive, user-friendly web applications using modern technologies like React, JavaScript (ES6+), HTML5, and CSS3. Proficient in creating clean, maintainable code, optimizing performance, and collaborating with design and backend teams to deliver seamless user experiences. Experienced with state management, API integration, and version control using Git.",
-      skills: [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "React JS",
-        "TypeScript",
-        "Tailwind CSS",
-        "Redux",
-        "Next Js",
-        "Redux Toolkit",
-        "PHP"
-      ],
+     skills: [
+  // Core Frontend Languages
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "TypeScript",
+
+  // CSS Frameworks & Methodologies
+  "Tailwind CSS",
+  "Bootstrap",
+
+  // JavaScript Frameworks & Libraries
+  "React JS",
+  "Next.js",
+  "Redux",
+  "Redux Toolkit",
+  "React Router",
+
+  // State Management
+  "Redux",
+  "Redux Toolkit",
+  "Zustand",
+  "Context API",
+
+  // Build Tools & Module Bundlers
+  "Vite",
+  "Webpack",
+  "Babel",
+
+  // Testing Libraries
+  "Jest",
+  "React Testing Library",
+
+  // Version Control & Collaboration
+  "GitLab",
+  "GitHub",
+
+  // Additional Tools & Concepts
+  "Responsive Design",
+  "Cross-Browser Compatibility",
+  "RESTful APIs",
+  "Frontend Performance Optimization",
+  "Component-Driven Development",
+  "Design Systems",
+  "Accessibility (a11y)",
+  "SEO Basics",
+
+  // Backend (if needed)
+  "PHP"
+]
     },
   
     
