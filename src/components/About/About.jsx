@@ -10,7 +10,7 @@ const About = () => {
   const roles = [
     'Front End Developer',
     'React.js Specialist',
-    'JavaScript Developer (Frontend)'
+    'JavaScript Developer'
   ];
   
   useEffect(() => {
