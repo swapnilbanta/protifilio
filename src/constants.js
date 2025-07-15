@@ -172,6 +172,7 @@ export const projects = [
       "FinTrack is a personal finance management app that helps users track their income, expenses, savings, and budgets all in one place. I developed the frontend using React JS and Redux Toolkit for efficient state management. The app features data visualization with charts, category-wise filtering, and monthly summaries. It also supports transaction history, goal tracking, and smart spending tips. FinTrack enables users to make informed decisions about their money through a clean, responsive UI and real-time data updates.",
     // image: financeLogo,
     tags: ["React JS", "Redux Toolkit", "JavaScript", "Chart.js", "Tailwind CSS"],
+       webapp: "https://fintrack.pro/",
   },
   {
     id: 5,
