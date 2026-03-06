@@ -51,6 +51,7 @@ export const SkillsInfo = [
     title: 'Languages',
     skills: [
       { name: 'JavaScript', logo: javascriptLogo },
+       { name: 'Typescript' },
     ],
   },
   {
@@ -73,7 +74,7 @@ export const SkillsInfo = [
       img: webverseLogo,
       role: "Front End Developer",
       company: "Bebo Technologies",
-      date: "January 2022 -  May 2025",
+      date: "",
       desc: "Skilled frontend developer with 3+ years of experience building responsive, user-friendly web applications using modern technologies like React, JavaScript (ES6+), HTML5, and CSS3. Proficient in creating clean, maintainable code, optimizing performance, and collaborating with design and backend teams to deliver seamless user experiences. Experienced with state management, API integration, and version control using Git.",
      skills: [
   // Core Frontend Languages
