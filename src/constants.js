@@ -75,7 +75,7 @@ export const SkillsInfo = [
       role: "Front End Developer",
       company: "Bebo Technologies",
       date: "",
-      desc: "Skilled frontend developer with 3+ years of experience building responsive, user-friendly web applications using modern technologies like React, JavaScript (ES6+), HTML5, and CSS3. Proficient in creating clean, maintainable code, optimizing performance, and collaborating with design and backend teams to deliver seamless user experiences. Experienced with state management, API integration, and version control using Git.",
+      desc: "Skilled Front-End Developer with 3+ years of experience building responsive and user-friendly web applications using modern technologies such as React.js, JavaScript (ES6+), HTML5, and CSS3. Proficient in writing clean, maintainable code, optimizing application performance, and collaborating with design and backend teams to deliver seamless user experiences. Experienced in state management, REST API integration, and version control using Git.",
      skills: [
   // Core Frontend Languages
   "HTML",

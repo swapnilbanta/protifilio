@@ -64,11 +64,7 @@ const About = () => {
           <br/>
           {/* About Me Paragraph */}
           <p className=" text-base sm:text-lg md:text-lg text-gray-400 mb-8 md:mb-10 leading-relaxed">
-            I'm a passionate Front-End Developer with 3+ years of experience crafting fast, responsive, 
-            and intuitive web applications. My expertise lies in React.js, Redux (including Redux Toolkit), 
-            Context API, and TypeScript for building clean, maintainable interfaces. With strong foundations 
-            in HTML5, CSS3, and modern JavaScript, I create visually appealing designs with seamless functionality. 
-            My additional experience with PHP allows me to effectively bridge front-end and back-end development.
+       I'm a passionate Front-End Developer with 3+ years of experience building responsive web applications. Skilled in React.js, Redux, TypeScript, JavaScript, HTML5, CSS3, and TailwindCSS, I create scalable and high-performance interfaces. I have experience integrating REST APIs, building data-driven dashboards, and collaborating with teams to deliver clean, maintainable solutions.
           </p>
           
           {/* Resume Button */}
